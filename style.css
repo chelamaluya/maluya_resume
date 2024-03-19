@@ -45,15 +45,6 @@
     align-items: center;
     margin-bottom: 5px;
 }
-
-.rating {
-    display: flex;
-    width: 200px;
-    height: 20px;
-    background-color: #ddd;
-    border-radius: 5px;
-    overflow: hidden;
-}
 .line {
     width: 20px;
     height: 100%;
